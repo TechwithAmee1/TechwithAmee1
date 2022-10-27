@@ -20,7 +20,7 @@
 - 👀 I’m interested on whatsapp bots
 
 - 🌱 I’m currently learning JAVASCRIPT
-- <h3 align="left">Connect with me:</h3><p>  <a href="https://instagram.com/mr.amiya.ofc" target="blank"><img align="center" src="https://telegra.ph/file/a171ac66c22c5617fe27b.png" alt="https://www.instagram.com/mr.amiya.ofc/" height="40" width="40" /></a>  <a href="https://wa.me/message/KZXTUVIGXKKZG1" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/IMG-20221027-WA0009.jpg" alt="https://wa.me/message/KZXTUVIGXKKZG1" height="65" width="95" /></a>  <a href="https://t.me/Mr_Amiya_OFC" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/53-530160_join-the-conversation-telegram-logo-white-png-transparent-removebg-preview%20(1).png" alt="https://t.me/Mr_Amiya_OFC" height="40" width="40" /></a> 
+- <h3 align="left">Connect with me:</h3><p>  <a href="https://instagram.com/mr.amiya.ofc" target="blank"><img align="center" src="https://telegra.ph/file/a171ac66c22c5617fe27b.png" alt="https://www.instagram.com/mr.amiya.ofc/" height="40" width="40" /></a>  <a href="https://wa.me/message/KZXTUVIGXKKZG1" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/IMG-20221027-WA0009.jpg" alt="https://wa.me/message/KZXTUVIGXKKZG1" height="65" width="95" /></a>  <a href="https://t.me/Mr_Amiya_OFC" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/Telegram_logo.svg.png" alt="https://t.me/Mr_Amiya_OFC" height="40" width="40" /></a> 
 </p>
 
 
