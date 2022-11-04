@@ -22,6 +22,7 @@
 - 👀 I’m interested on whatsapp bots
 
 - 🌱 I’m currently learning JAVASCRIPT
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - <h3 align="left">Connect with me:</h3><p>  <a href="https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/Picsart_22-10-28_23-29-00-872.png" alt="https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" height="105" width="105" /></a>  <a href="https://instagram.com/mr.amiya.ofc" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/logo-ig-png-32464.png" alt="https://www.instagram.com/mr.amiya.ofc/" height="40" width="40" /></a>  <a href="https://wa.me/message/KZXTUVIGXKKZG1" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/IMG-20221027-WA0009.jpg" alt="https://wa.me/message/KZXTUVIGXKKZG1" height="65" width="95" /></a>  <a href="https://t.me/Mr_Amiya_OFC" target="blank"><img align="center" src="https://github.com/TechwithAmee1/TechwithAmee1/blob/main/Telegram_logo.svg.png" alt="https://t.me/Mr_Amiya_OFC" height="40" width="40" /></a> 
 </p>
