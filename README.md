@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/TechwithAmee1">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Amiya%20+%20Official+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Black+Dragon%20+%20Official+..."
             alt="Typing SVG"
         />
     </a>
