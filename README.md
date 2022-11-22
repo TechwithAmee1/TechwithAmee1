@@ -1,6 +1,6 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## <!-- Typing SVG -->
+<!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/TechwithAmee1">
         <img align="center"
