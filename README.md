@@ -1,4 +1,4 @@
-- <h2 align="left">HEY THERE</h2>
+##Hey There 👋
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
