@@ -41,6 +41,8 @@
     <img src="https://img.shields.io/github/followers/Diegoson?color=0000FF&label=Followers&style=plastic">
 </br>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 - <h2 align="left">MY GITHUB STATUS</h2>
 
   <img src="https://activity-graph.herokuapp.com/graph?username=TechwithAmee1&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
