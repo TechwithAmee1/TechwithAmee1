@@ -41,10 +41,36 @@
     <img src="https://img.shields.io/github/followers/Diegoson?color=0000FF&label=Followers&style=plastic">
 </br>
 
- <p align="center"> <a href="https://github.com/TechwithAmee1"><img src="https://github-profile-trophy.vercel.app/?username=TechwithAmee1&no-bg=true&no-frame=false&theme=algolia"></a></p>
+## MY GITHUB STATUS 
 
-<p align="center"> <a href="https://github.com/TechwithAmee1"><img  src="http://github-readme-streak-stats.herokuapp.com?user=TechwithAmee1&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
-<p align="center"> <a href="https://github.com/TechwithAmee1"><img src="https://github-readme-stats.vercel.app/api?username=TechwithAmee1&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
-<p align="center"> <a href="https://github.com/TechwithAmee1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechwithAmee1&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=TechwithAmee1&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph">
+  </div>
 
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=TechwithAmee1)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/TechwithAmee1?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+</details> 
+
+
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechwithAmee1&show_icons=true&theme=dark&locale=en&layout=compact" alt="TechwithAmee1" /></p>
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TechwithAmee1&show_icons=true&theme=dark&locale=en" alt="TechwithAmee1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechwithAmee1&theme=dark" alt="TechwithAmee1" /></p>
+</p>
+
+</div>
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
