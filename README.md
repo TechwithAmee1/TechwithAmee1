@@ -1,7 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### Hey There 👋
-
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/TechwithAmee1">
