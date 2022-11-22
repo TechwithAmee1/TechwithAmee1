@@ -21,7 +21,7 @@
 👩‍💻Im a developer & learner
 
 
-![My card name](https://cardivo.vercel.app/api?name=AMIYA&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://i.ibb.co/9vnxgVN/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=mr.amiya.ofc&github=TechwithAmee1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=AMIYA%Official&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://i.ibb.co/9vnxgVN/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=mr.amiya.ofc&github=TechwithAmee1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -29,6 +29,17 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<p align="center">
+  <a href="https://github.com/TechwithAmee1">
+    <img src="https://komarev.com/ghpvc/?username=TechwithAmee1&label=Profile%200views&color=0000FF&label=Profile+Views&style=plastic">
+</a>
+  <a href="https://github.com/TechwithAmee1?tab=stars">
+    <img src="https://img.shields.io/github/Diegoson?color=0000FF&label=Stars&style=plastic">
+
+  </a>
+  <a href="https://github.com/TechwithAmee1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Diegoson?color=0000FF&label=Followers&style=plastic">
+</br>
 
  <p align="center"> <a href="https://github.com/TechwithAmee1"><img src="https://github-profile-trophy.vercel.app/?username=TechwithAmee1&no-bg=true&no-frame=false&theme=algolia"></a></p>
 
