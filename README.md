@@ -21,7 +21,7 @@
 👩‍💻Im a developer & learner
 
 
-![My card name](https://cardivo.vercel.app/api?name=AMIYA%Official&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://i.ibb.co/9vnxgVN/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=mr.amiya.ofc&github=TechwithAmee1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=AMIYA-Official&description=Hi,%20Welcome%20To%20My%20Profile%20😈&image=https://i.ibb.co/9vnxgVN/Picsart-22-10-19-23-24-15-518.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=mr.amiya.ofc&github=TechwithAmee1&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
