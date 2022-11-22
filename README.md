@@ -10,6 +10,10 @@
     </a>
 </p>                                
  
+- 🥰I'm @AMEESHA
+- 🥰 That's my second name
+- ⏱️ I joined github 2021
+
 - 👀 I’m interested in bot Development
 
 - 🌱 I’m currently learning coding
